@@ -1046,11 +1046,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "AC SOFTWARE SP. Z O.O.";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					401CA1B81BA067DB00117AF4 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = T6ZPGSWA75;
+						DevelopmentTeam = J7G6E8NPZC;
 					};
 					401CA1D41BA067DB00117AF4 = {
 						CreatedOnToolsVersion = 6.4;
@@ -1589,6 +1589,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = J7G6E8NPZC;
 				INFOPLIST_FILE = SUPLA/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1596,7 +1597,7 @@
 					"$(PROJECT_DIR)/../supla-core/supla-client/OpenSSL-for-iPhone/lib",
 					"$(PROJECT_DIR)/../supla-core/supla-client/Release",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acsoftware.ios.supla;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aqua.ios.supla;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1607,6 +1608,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = J7G6E8NPZC;
 				INFOPLIST_FILE = SUPLA/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1614,7 +1616,7 @@
 					"$(PROJECT_DIR)/../supla-core/supla-client/OpenSSL-for-iPhone/lib",
 					"$(PROJECT_DIR)/../supla-core/supla-client/Release",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acsoftware.ios.supla;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aqua.ios.supla;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
